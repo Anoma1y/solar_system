@@ -1,0 +1,51 @@
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\герман\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Герман\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoubleBufferPanel.resources
+C:\Users\Герман\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.DoubleBufferPanel.resources
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Новая папка\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Программирование\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\C# и C++\Visual Studio\Projects\WindowsFormsApplication11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
